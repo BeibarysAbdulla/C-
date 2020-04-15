@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\Gradebook",
+    "\\Gradebook\\Controllers",
+    "\\Gradebook\\obj",
+    "\\Gradebook\\Properties",
+    "\\Gradebook\\Views"
+  ],
+  "SelectedNode": "\\Gradebook\\Controllers\\MainController.cs",
+  "PreviewInSolutionExplorer": false
+}
